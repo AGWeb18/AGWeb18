@@ -10,7 +10,7 @@ I'm a passionate Software and Data Engineer specializing in Automation and AI so
 
 - **GradeSage**: Intelligent grading assistant automating feedback and analysis for educators.
 - **ZapTasks**: Task automation platform for productivity and workflow optimization.
-- **BirchAnimalWellness**: AI-powered solutions supporting animal wellness and veterinary care.
+- **BirchAnimalWellness**: Website supporting animal wellness and veterinary care.
 
 ---
 
@@ -18,7 +18,7 @@ I'm a passionate Software and Data Engineer specializing in Automation and AI so
 
 - **Python** – Automation, AI/ML, data pipelines
 - **SQL** – Data modeling, analytics, ETL
-- **JavaScript** – Web applications, scripting, integrations
+- **JavaScript** – Full Stack Web applications, scripting, integrations
 
 ---
 
